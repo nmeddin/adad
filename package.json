@@ -1,0 +1,27 @@
+{
+  "name": "adad",
+  "version": "1.0.0",
+  "description": "A Twitter bot that lets the people know how it really goes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmeddin/adad.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "Nick Meddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmeddin/adad/issues"
+  },
+  "homepage": "https://github.com/nmeddin/adad#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
